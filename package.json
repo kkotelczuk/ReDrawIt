@@ -1,0 +1,24 @@
+{
+  "name": "re-draw-it",
+  "version": "0.0.0",
+  "description": "Online game based on drawing and redrawing images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkotelczuk/ReDrawIt.git"
+  },
+  "keywords": [
+    "game",
+    "online",
+    "draw"
+  ],
+  "author": "Konrad Kotelczuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkotelczuk/ReDrawIt/issues"
+  },
+  "homepage": "https://github.com/kkotelczuk/ReDrawIt#readme"
+}
